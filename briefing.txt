@@ -1,0 +1,29 @@
+CRIAR SITE PARA O PELADEIROS
+
+TELA INICIAL:
+Pelada de sexta
+Campeonatos
+Grenais
+Sobre
+
+PELADA DE SEXTA
+Integrantes do grupo
+
+CAMPEONATOS
+Veterano
+Força livre
+
+VETERANO
+Jogadores
+Jogos
+Midias
+
+FORÇA LIVRE
+Jogadores
+Jogos
+Midias
+
+GRENAIS
+Jogadores
+Vitórias
+Mídias
